@@ -1,0 +1,11 @@
+body {
+    overflow-x: hidden;
+}
+
+.carousel {
+    height: 100vmin;
+}
+
+.carousel img {
+    height: 100vmin;
+}
